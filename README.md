@@ -6,3 +6,5 @@ de visualização paginado (6 cards em cada página). Também é possível busca
 ## Como executar
 
 Para executar o projeto em sua máquina, basta clonar este repositório com o comando ***git clone https://github.com/gabrielreginato/catalogo-jogos-react*** ou baixá-lo através desta página do GitHub. Após isso, é necessário instalar suas dependências com o comando ***npm install*** e, por fim, executar ***npm run dev*** e acessar sua URL (geralmente http://localhost/5173, URL padrão do Vite).
+
+#### Nota: Este projeto foi originalmente desenvolvido anteriormente e repostado nesta conta após perda de acesso à conta anterior.
